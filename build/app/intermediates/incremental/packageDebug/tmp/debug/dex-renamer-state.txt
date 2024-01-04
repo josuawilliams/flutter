@@ -1,0 +1,4 @@
+#Wed Jan 03 16:40:27 ICT 2024
+base.0=D\:\\Joe\\latihan_flutter\\learn_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
